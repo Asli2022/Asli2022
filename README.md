@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS, Terraform , Github, Python and Network**
   
-- 👨‍💻 All of my projects are available at [https://github.com/Asli2022/Asli2022](https://github.com/Asli2022/Asli2022)
+- 👨‍💻 All of my projects are available at [https://github.com/Asli2022](https://github.com/Asli2022/Asli2022)
   
 - 📫 How to reach me **ashleyaden4u@hotmail.com**
   

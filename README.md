@@ -1,30 +1,23 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/5607838-composition-concept-of-cloud-computing-cloud-connected-devices-with-gears-flat-vector-illustration)]((https://your-website-url))
+
 
 <h1 align="center">Hi 👋, I'm Asli Aden</h1>
 <h3 align="center">A passionate cloud engineer from United Kingdom</h3>
-<img
-  src="./screenshot.png"
-  alt="Description of the image"
-  width="500"
-  height="300"
-/>
-(img align="right" alt="Coding" width="400" src="./Screenshot 2021-10-14 at
-14.47.47.png")
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=asli2022"
-      alt="asli2022"
-  /></a>
+<img align="right" alt="Coding" width="400"
+  src="Screenshot 2024-03-02 at 22.15.27.png"
+
+
 </p>
 
-- 🌱 I’m currently learning **AWS, Terraform , Github, Python and Network** - 👨‍💻
-All of my projects are available at
-[https://github.com/Asli2022/Asli2022](https://github.com/Asli2022/Asli2022) -
-📫 How to reach me **ashleyaden4u@hotmail.com** - ⚡ Fun fact **I have
-transitioned from healthcare background. I was a nurse and midwife.**
+- 🌱 I’m currently learning **AWS, Terraform , Github, Python and Network**
+  
+- 👨‍💻 All of my projects are available at [https://github.com/Asli2022/Asli2022](https://github.com/Asli2022/Asli2022)
+  
+- 📫 How to reach me **ashleyaden4u@hotmail.com**
+  
+-  ⚡ Fun fact **I have transitioned from healthcare background. I was a nurse and midwife.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/asli-aden-26656821b" target="blank"
     ><img
@@ -100,14 +93,6 @@ transitioned from healthcare background. I was a nurse and midwife.**
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=asli2022&show_icons=true&locale=en"
-    alt="asli2022"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=asli2022&"
     alt="asli2022"
   />
 </p>

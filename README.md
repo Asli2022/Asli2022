@@ -1,4 +1,4 @@
-
+![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*bFBRxDfWfOlYFM8f.jpg)
 
 <h1 align="center">Hi 👋, I'm Asli Aden</h1>
 <h3 align="center">A passionate cloud engineer from United Kingdom</h3>
